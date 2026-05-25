@@ -1,0 +1,7 @@
+The History of Artificial Intelligence
+
+Artificial intelligence (AI) is the intelligence of machines or software, as opposed to the intelligence of human beings or animals. AI applications include advanced web search engines, recommendation systems, understanding human speech, self-driving cars, and generative or creative tools.
+
+Alan Turing was the first person to conduct substantial research in the field that he called machine intelligence. Artificial intelligence was founded as an academic discipline in 1956. The field went through multiple cycles of optimism, followed by disappointment and loss of funding, known as AI winter.
+
+In the early 2020s, generative AI platforms like ChatGPT and Gemini demonstrated highly impressive capabilities, sparking a massive boom in AI investment and research. These models are based on transformer architectures and are trained on massive amounts of internet data.
