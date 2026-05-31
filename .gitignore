@@ -216,3 +216,8 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# Local Vector DB & Data Cache
+data/chromadb/
+data/source_docs/
+
